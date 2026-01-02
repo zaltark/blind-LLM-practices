@@ -1,0 +1,151 @@
+patient_id,dob,gender,weight_raw,height_cm,notes
+1,12/3/1980,f,74kg,150,Patient 1 - Follow-up required.
+2,22/11/1979,M,67kg,166,Patient 2 - Follow-up required.
+3,1982-02-15,Female,63,170,Patient 3 - Follow-up required.
+4,3/1/1974,M,92,154,Patient 4 - Follow-up required.
+5,10/7/1982,Female,57,180,Patient 5 - Follow-up required.
+6,1999-03-22,M,67kg,189,Patient 6 - Follow-up required.
+7,6/4/1987,M,59,163,Patient 7 - Follow-up required.
+8,6/4/1951,M,72kg,176,Patient 8 - Follow-up required.
+9,1980-02-23,Female,96,188,Patient 9 - Follow-up required.
+10,8/20/1978,m,102kg,181,Patient 10 - Follow-up required.
+11,13/11/1963,Male,55kg,174,Patient 11 - Follow-up required.
+12,1979-06-15,Female,59kg,187,Patient 12 - Follow-up required.
+13,11/11/2000,Male,94,164,Patient 13 - Follow-up required.
+14,11/1/1975,F,86,178,Patient 14 - Follow-up required.
+15,1955-10-16,f,178 lbs,175,Patient 15 - Follow-up required.
+16,3/9/1983,F,196 lbs,163,Patient 16 - Follow-up required.
+17,23/4/1962,F,73kg,152,Patient 17 - Follow-up required.
+18,1989-01-03,M,91,165,Patient 18 - Follow-up required.
+19,6/6/1957,m,229 lbs,179,Patient 19 - Follow-up required.
+20,1/9/1965,Female,121 lbs,175,Patient 20 - Follow-up required.
+21,1983-10-22,M,55kg,168,Patient 21 - Follow-up required.
+22,11/22/1953,M,69kg,178,Patient 22 - Follow-up required.
+23,6/5/1952,Female,108,174,Patient 23 - Follow-up required.
+24,1959-11-14,M,81,150,Patient 24 - Follow-up required.
+25,9/7/1994,M,202 lbs,160,Patient 25 - Follow-up required.
+26,7/2/1970,f,108,184,Patient 26 - Follow-up required.
+27,2002-04-15,Female,87,174,Patient 27 - Follow-up required.
+28,4/18/1957,Female,59,170,Patient 28 - Follow-up required.
+29,11/2/1950,M,69,154,Patient 29 - Follow-up required.
+30,1984-09-05,m,121 lbs,156,Patient 30 - Follow-up required.
+31,11/7/1958,f,59kg,182,Patient 31 - Follow-up required.
+32,10/4/1974,F,88,159,Patient 32 - Follow-up required.
+33,1960-08-10,Female,75kg,171,Patient 33 - Follow-up required.
+34,11/13/1994,F,191 lbs,172,Patient 34 - Follow-up required.
+35,26/11/1961,M,58kg,158,Patient 35 - Follow-up required.
+36,1997-10-09,Male,202 lbs,176,Patient 36 - Follow-up required.
+37,8/3/1986,F,70,182,Patient 37 - Follow-up required.
+38,28/7/1977,M,94kg,161,Patient 38 - Follow-up required.
+39,1959-01-25,F,119 lbs,163,Patient 39 - Follow-up required.
+40,4/22/1965,m,106,164,Patient 40 - Follow-up required.
+41,18/8/1992,Female,95,175,Patient 41 - Follow-up required.
+42,1981-11-13,m,50,176,Patient 42 - Follow-up required.
+43,11/5/1981,F,191 lbs,180,Patient 43 - Follow-up required.
+44,12/8/1960,f,86,183,Patient 44 - Follow-up required.
+45,1966-01-04,Female,98,163,Patient 45 - Follow-up required.
+46,1/4/1999,Male,78kg,168,Patient 46 - Follow-up required.
+47,26/2/2004,Female,62,150,Patient 47 - Follow-up required.
+48,1961-02-25,f,154 lbs,155,Patient 48 - Follow-up required.
+49,10/7/1959,m,56,178,Patient 49 - Follow-up required.
+50,14/8/1994,f,94kg,183,Patient 50 - Follow-up required.
+51,1979-05-23,Male,83,152,Patient 51 - Follow-up required.
+52,4/14/1951,Female,65kg,170,Patient 52 - Follow-up required.
+53,16/4/1963,m,136 lbs,160,Patient 53 - Follow-up required.
+54,1983-01-02,Female,85,170,Patient 54 - Follow-up required.
+55,12/12/1971,m,218 lbs,175,Patient 55 - Follow-up required.
+56,8/8/1980,Male,227 lbs,152,Patient 56 - Follow-up required.
+57,2000-11-22,Female,127 lbs,153,Patient 57 - Follow-up required.
+58,5/10/1999,m,59,175,Patient 58 - Follow-up required.
+59,26/9/1992,f,101kg,183,Patient 59 - Follow-up required.
+60,1991-12-09,Male,110kg,162,Patient 60 - Follow-up required.
+61,4/7/1965,F,229 lbs,156,Patient 61 - Follow-up required.
+62,7/12/2001,F,95kg,166,Patient 62 - Follow-up required.
+63,1961-02-17,m,104,184,Patient 63 - Follow-up required.
+64,12/7/1980,m,87,153,Patient 64 - Follow-up required.
+65,18/4/1971,M,58,187,Patient 65 - Follow-up required.
+66,1994-04-11,F,145 lbs,178,Patient 66 - Follow-up required.
+67,12/27/1973,f,112 lbs,160,Patient 67 - Follow-up required.
+68,17/7/1978,m,78,181,Patient 68 - Follow-up required.
+69,1952-10-05,Male,242 lbs,160,Patient 69 - Follow-up required.
+70,12/16/1954,m,93,173,Patient 70 - Follow-up required.
+71,2/9/1976,F,207 lbs,181,Patient 71 - Follow-up required.
+72,1954-12-22,Male,134 lbs,165,Patient 72 - Follow-up required.
+73,7/14/1962,m,87kg,185,Patient 73 - Follow-up required.
+74,22/2/1981,F,79kg,171,Patient 74 - Follow-up required.
+75,1964-08-22,F,104kg,158,Patient 75 - Follow-up required.
+76,7/6/1970,f,191 lbs,168,Patient 76 - Follow-up required.
+77,2/12/1983,Male,90kg,160,Patient 77 - Follow-up required.
+78,1966-09-13,Male,64,168,Patient 78 - Follow-up required.
+79,2/10/1954,Female,222 lbs,168,Patient 79 - Follow-up required.
+80,13/11/1954,f,123 lbs,169,Patient 80 - Follow-up required.
+81,1972-06-12,Male,198 lbs,158,Patient 81 - Follow-up required.
+82,6/14/1979,Male,57,151,Patient 82 - Follow-up required.
+83,27/11/1974,f,204 lbs,168,Patient 83 - Follow-up required.
+84,1960-10-04,F,96kg,184,Patient 84 - Follow-up required.
+85,7/7/1986,Male,108kg,173,Patient 85 - Follow-up required.
+86,27/12/1975,f,83kg,190,Patient 86 - Follow-up required.
+87,2004-05-26,Female,215 lbs,154,Patient 87 - Follow-up required.
+88,5/27/2005,Male,54,157,Patient 88 - Follow-up required.
+89,19/8/1959,M,107,188,Patient 89 - Follow-up required.
+90,1954-01-13,M,91,179,Patient 90 - Follow-up required.
+91,7/10/1964,F,68,163,Patient 91 - Follow-up required.
+92,6/11/1957,F,76,170,Patient 92 - Follow-up required.
+93,2000-08-12,M,73,163,Patient 93 - Follow-up required.
+94,8/11/1987,m,72kg,170,Patient 94 - Follow-up required.
+95,26/3/1992,F,96,171,Patient 95 - Follow-up required.
+96,1983-09-15,Male,145 lbs,188,Patient 96 - Follow-up required.
+97,11/28/2000,Male,52,185,Patient 97 - Follow-up required.
+98,10/12/1967,F,152 lbs,189,Patient 98 - Follow-up required.
+99,1978-06-09,F,132 lbs,174,Patient 99 - Follow-up required.
+100,6/22/1953,m,110,182,Patient 100 - Follow-up required.
+101,6/8/1994,Male,187 lbs,169,Patient 101 - Follow-up required.
+102,1955-10-03,Male,75kg,155,Patient 102 - Follow-up required.
+103,11/6/1963,Female,65,157,Patient 103 - Follow-up required.
+104,19/12/1984,M,107,159,Patient 104 - Follow-up required.
+105,1990-05-03,Male,50,150,Patient 105 - Follow-up required.
+106,2/23/1996,M,213 lbs,159,Patient 106 - Follow-up required.
+107,6/8/2001,Male,103,156,Patient 107 - Follow-up required.
+108,1980-02-08,m,52kg,156,Patient 108 - Follow-up required.
+109,10/18/1998,Male,145 lbs,158,Patient 109 - Follow-up required.
+110,1/5/1956,F,96,166,Patient 110 - Follow-up required.
+111,1978-06-24,Female,70kg,190,Patient 111 - Follow-up required.
+112,2/21/1973,Male,127 lbs,165,Patient 112 - Follow-up required.
+113,25/12/1962,M,98,189,Patient 113 - Follow-up required.
+114,2004-01-19,f,58kg,150,Patient 114 - Follow-up required.
+115,4/23/2001,Female,106kg,190,Patient 115 - Follow-up required.
+116,6/12/1979,m,64kg,173,Patient 116 - Follow-up required.
+117,1998-09-10,Male,54,169,Patient 117 - Follow-up required.
+118,11/15/2003,Male,65,153,Patient 118 - Follow-up required.
+119,11/11/1950,Male,83,175,Patient 119 - Follow-up required.
+120,1968-12-26,Female,101,162,Patient 120 - Follow-up required.
+121,11/1/1998,Female,176 lbs,179,Patient 121 - Follow-up required.
+122,6/7/1992,F,163 lbs,157,Patient 122 - Follow-up required.
+123,1986-12-03,F,202 lbs,155,Patient 123 - Follow-up required.
+124,6/8/1979,m,178 lbs,166,Patient 124 - Follow-up required.
+125,3/4/1953,M,156 lbs,160,Patient 125 - Follow-up required.
+126,1954-12-14,F,53,173,Patient 126 - Follow-up required.
+127,12/19/1979,M,68,170,Patient 127 - Follow-up required.
+128,19/1/1979,f,82kg,154,Patient 128 - Follow-up required.
+129,1966-08-19,M,93,164,Patient 129 - Follow-up required.
+130,8/12/1977,M,91,187,Patient 130 - Follow-up required.
+131,10/3/1981,M,231 lbs,182,Patient 131 - Follow-up required.
+132,1962-08-23,m,152 lbs,155,Patient 132 - Follow-up required.
+133,9/25/1999,Female,71,173,Patient 133 - Follow-up required.
+134,24/11/1954,Male,95,158,Patient 134 - Follow-up required.
+135,1990-09-14,m,63kg,163,Patient 135 - Follow-up required.
+136,3/2/1994,f,99,183,Patient 136 - Follow-up required.
+137,2/2/1956,F,66kg,168,Patient 137 - Follow-up required.
+138,1973-03-04,f,96,165,Patient 138 - Follow-up required.
+139,2/25/1978,Female,85,176,Patient 139 - Follow-up required.
+140,9/2/1962,Female,54,154,Patient 140 - Follow-up required.
+141,1951-11-10,m,64kg,157,Patient 141 - Follow-up required.
+142,4/9/1954,f,85kg,190,Patient 142 - Follow-up required.
+143,4/8/2000,f,91,161,Patient 143 - Follow-up required.
+144,1999-07-01,f,78,182,Patient 144 - Follow-up required.
+145,11/3/1983,m,215 lbs,171,Patient 145 - Follow-up required.
+146,20/8/1975,f,65kg,171,Patient 146 - Follow-up required.
+147,1994-08-17,M,211 lbs,163,Patient 147 - Follow-up required.
+148,2/7/1965,M,58,156,Patient 148 - Follow-up required.
+149,22/10/2001,F,207 lbs,170,Patient 149 - Follow-up required.
+150,2001-10-06,F,104kg,173,Patient 150 - Follow-up required.
